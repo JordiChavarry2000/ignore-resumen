@@ -1,1 +1,4 @@
-archivo.js
+js/
+*js
+.env
+index.html
